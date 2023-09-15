@@ -1,7 +1,6 @@
 ![Startap](https://github.com/Kirill00773/startap/blob/main/zapchasti_ikonka.jpg)
 # Startap
-Software for recognizing the names of items (whole or broken) from photographs and displaying the place of sale and information about it
-# Subject area: cars
+Software for recognizing the name of a car part (whole or broken) from photographs and displaying the place of sale and information about it
 # Problems:
 - Ignorance of car parts
 - Labor intensity in finding quality parts at a good price
