@@ -1,4 +1,4 @@
-![Startap](https://github.com/Kirill00773/startap/blob/main/zapchasti_ikonka.jpg)
+![Startap](https://zubilo-perm.ru/data/big/zapchasti_ikonka.jpg)
 # Startap
 Software for recognizing the name of a car part (whole or broken) from photographs and displaying the place of sale and information about it
 # Problems:
