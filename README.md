@@ -1,5 +1,5 @@
-![Startap](https://zubilo-perm.ru/data/big/zapchasti_ikonka.jpg)
-# Startap
+![Startup](https://zubilo-perm.ru/data/big/zapchasti_ikonka.jpg)
+# Startup
 Software for recognizing the name of a car part (whole or broken) from photographs and displaying the place of sale and information about it
 # Problems:
 - Ignorance of car parts
