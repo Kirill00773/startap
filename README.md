@@ -1,6 +1,6 @@
 # startap
 Software for recognizing the names of items (whole or broken) from photographs and displaying the place of sale and information about it
-Subject area: cars
+ Subject area: cars
 Problems:
 - ignorance of car parts
 - labor intensity in finding quality parts at a good price
