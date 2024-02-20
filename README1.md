@@ -9,5 +9,5 @@ Software for recognizing the name of a car part (whole or broken) from photograp
  # Software advantages:
 - Time to select and search for a choice of parts
 - Study of various parts and devices 
-hello
+hello:)
 
